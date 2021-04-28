@@ -1,11 +1,8 @@
-﻿body {
-    background-color:cornsilk;
+body {
+    background-color:azure;
     padding-top: 80px;
 }
 
-.show-cart li {
-    display: flex;
-  }
   .card {
     margin-bottom: 20px;
   }
@@ -20,5 +17,15 @@ p.card-text{
 }
 
 div.card{
-  background-color: darkgrey;
+  background-color:cadetblue;
+  align-self: center;
 }
+
+div.modal-content{
+  background-color:rgb(118, 181, 211);
+}
+p.head-pagamento {
+  font-size: 24px;
+  font-weight: bold;
+}
+
