@@ -1,15 +1,16 @@
 ﻿body {
-    background-color:azure;
-    padding-top: 80px;
+  background-color:azure;
+  padding-top: 80px;
 }
 
-  .card {
-    margin-bottom: 20px;
+.card {
+  margin-bottom: 20px;
   }
-  .card-img-top {
-    width: 200px;
-    height: 200px;
-    align-self: center;
+
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  align-self: center;
   }
 
 div.card{
